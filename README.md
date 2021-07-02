@@ -15,5 +15,5 @@
 ![](https://img.shields.io/badge/Editor-VSCODE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-![](https://github-readme-stats.vercel.app/api?username=anny21&show_icons=true&theme=synthwave&hide_title=true)
+![](https://github-readme-stats.vercel.app/api?username=anny21&show_icons=true&theme=synthwave&hide_title=true&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anny21&layout=compact)](https://github.com/anny21/github-readme-stats)
