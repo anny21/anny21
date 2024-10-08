@@ -2,9 +2,7 @@
 <!--✨
 -->
 
-- 🔭 I’m currently working with Laravel/Php
 <!-- - 👯 I’m looking to contribute to open source -->
-- 💬 Ask me about Laravel/Php
 - 😄 Pronouns: She/Her
 
 <!--![](https://img.shields.io/badge/Coding-PHP-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
